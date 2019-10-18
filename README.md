@@ -15,6 +15,7 @@ Die Rumpfnase besteht auf vier einzelnen Depron-Platten die leicht über einer K
 
 ## Komponenten und Bauteile
 ### Rumpf
+muss noch beschrieben werden
 
 ### Tragfläche
 
